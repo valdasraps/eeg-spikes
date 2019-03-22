@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+.~lock.*
+out/
+*.egg-info/
