@@ -6,6 +6,15 @@ name = "pypi"
 [packages]
 scikit-learn = "*"
 numpy = "*"
+scipy = "*"
+keras = "*"
+matplotlib = "*"
+ipykernel = "*"
+pandas = "*"
+python-dateutil = "*"
+tensorflow = "*"
+tensorflow-gpu = "*"
+imblearn = "*"
 
 [dev-packages]
 
