@@ -15,6 +15,7 @@ python-dateutil = "*"
 tensorflow = "*"
 tensorflow-gpu = "*"
 imblearn = "*"
+pyedflib = "*"
 
 [dev-packages]
 
