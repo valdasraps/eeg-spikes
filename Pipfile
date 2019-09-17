@@ -16,6 +16,8 @@ tensorflow = "*"
 tensorflow-gpu = "*"
 imblearn = "*"
 pyedflib = "*"
+autokeras = "*"
+eeg-spikes = {path = "."}
 
 [dev-packages]
 
